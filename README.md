@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnusdot" alt="magnusdot" /> </p>
 
-- 🔭 I’m currently working on **Thor**
+- 🔭 I’m currently working on **[MegaBot](https://alois-marcellin.fr)**
 
 - 🌱 I’m currently learning **Electron**
 
