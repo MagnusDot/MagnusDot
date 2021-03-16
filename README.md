@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Crypto Trading Bot**
 
-- 🌱 I’m currently learning **Electron**
+- 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **Any web Project !**
 
