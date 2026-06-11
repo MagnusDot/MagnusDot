@@ -1,4 +1,4 @@
-<h1 align="center">Alois Marcellin</h1>
+<h1 align="center">Aloïs Marcellin</h1>
 <h3 align="center">AI Tech Lead, backend developer, automation nerd and maker of useful/fun open-source tools.</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## Hey, I'm Alois
+## Hey, I'm Aloïs
 
 I am an **AI Tech Lead** building backend systems, AI agents, automation tools and full-stack products.
 
@@ -72,14 +72,6 @@ I also work on AI agents, RAG systems, automation workflows and data-heavy proto
 - Email: **alois.marcellin@gmail.com**
 - LinkedIn: [linkedin.com/in/alois-marcellin](https://www.linkedin.com/in/alo%C3%AFs-marcellin/)
 - GitHub: [github.com/MagnusDot](https://github.com/MagnusDot)
-
-## Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/magnuscode">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 ## GitHub Activity
 
